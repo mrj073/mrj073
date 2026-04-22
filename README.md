@@ -15,13 +15,12 @@
 ---
 [![](https://komarev.com/ghpvc/?username=mrj073&icon=0&color=0)](https://visitcount.itsvg.in)
 # ⚡ Current Focus:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3ECF8E&center=false&vCenter=false&width=800&lines=Building+Next-Gen+AI+Automation+Systems...;Developing+Smart+Chrome+Extensions...;Integrating+Claude+%26+Gemini+APIs...;Automating+The+Web,+One+Script+At+A+Time!+🚀" alt="Typing SVG" /></a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3ECF8E&width=800&lines=Building+Next-Gen+AI+Automation+Systems;Developing+Smart+Chrome+Extensions;Integrating+Claude+%26+Gemini+APIs;Automating+The+Web,+One+Script+At+A+Time!)
 
 # 📊 Top Languages:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrj073&theme=dark&hide_border=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mrj073&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=mrj073&color=blue&style=flat-square&label=Profile+Views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
